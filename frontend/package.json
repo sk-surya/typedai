@@ -45,7 +45,7 @@
     "highlight.js": "11.11.1",
     "lodash-es": "4.17.21",
     "luxon": "3.6.1",
-    "mermaid": "^11.6.0",
+    "mermaid": "^11.16.1",
     "ng-apexcharts": "1.15.0",
     "ngx-markdown": "^19.1.1",
     "ngx-quill": "27.0.2",
